@@ -12,4 +12,4 @@ Starting my first frontend projects.
 ---
 
 ### 📬 Connect
-[LinkedIn]((https://www.linkedin.com/in/tarek-alaa-elzoghy/))
+[LinkedIn](https://www.linkedin.com/in/tarek-alaa-elzoghy/)
