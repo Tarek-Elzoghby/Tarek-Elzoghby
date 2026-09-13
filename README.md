@@ -1,16 +1,15 @@
-## Hi there 👋
+# Tarek Elzoghby | طارق الزغبي
 
-<!--
-**Tarek-Elzoghby/Tarek-Elzoghby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+T-shaped frontend developer with an accessibility specialization. Still learning JavaScript, here's what I've built with what I know so far.
 
-Here are some ideas to get you started:
+## Focus
+Accessibility, a11y-first frontend builds, and JavaScript problem-solving. Some adjacent-track work in automation as I build out the horizontal side of the T.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me
+- LinkedIn: https://www.linkedin.com/in/tarek-elzoghby/
+- Dev.to: https://dev.to/tarek_elzoghby
+- Hashnode: https://hashnode.com/@Tarek-Elzoghby
+- Live demo: https://tarek-elzoghby.github.io/frontend-portfolio/
+
+## Pinned work
+See pinned repos below for the current best examples of what I'm building.
