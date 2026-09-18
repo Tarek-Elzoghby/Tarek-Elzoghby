@@ -1,15 +1,16 @@
 # Tarek Elzoghby | طارق الزغبي
 
-T-shaped frontend developer with an accessibility specialization. Still learning JavaScript, here's what I've built with what I know so far.
+Frontend developer. I build interfaces, and the automation/AI logic that makes them actually work, as one piece — not a UI handed off to someone else to wire up.
 
 ## Focus
-Accessibility, a11y-first frontend builds, and JavaScript problem-solving. Some adjacent-track work in automation as I build out the horizontal side of the T.
+Frontend builds, with n8n and Python doing the automation/AI work behind them. Accessibility is a bar every build gets held to, not a separate track.
 
 ## Find me
+- Live demo: https://tarek-elzoghby.github.io/frontend-portfolio/
 - LinkedIn: https://www.linkedin.com/in/tarek-elzoghby/
+- Frontend Mentor: https://www.frontendmentor.io/profile/Tarek-Elzoghby
 - Dev.to: https://dev.to/tarek_elzoghby
 - Hashnode: https://hashnode.com/@Tarek-Elzoghby
-- Live demo: https://tarek-elzoghby.github.io/frontend-portfolio/
 
 ## Pinned work
-See pinned repos below for the current best examples of what I'm building.
+See pinned repos below for the current best examples of what I build.
