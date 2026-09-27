@@ -6,11 +6,13 @@ Frontend developer. I build interfaces, and the automation/AI logic that makes t
 Frontend builds, with n8n and Python doing the automation/AI work behind them. Accessibility is a bar every build gets held to, not a separate track.
 
 ## Find me
-- Live demo: https://tarek-elzoghby.github.io/frontend-portfolio/
+- Live demo: https://tarek-elzoghby.github.io/tarek-elzoghby-hub/
 - LinkedIn: https://www.linkedin.com/in/tarek-elzoghby/
 - Frontend Mentor: https://www.frontendmentor.io/profile/Tarek-Elzoghby
 - Dev.to: https://dev.to/tarek_elzoghby
 - Hashnode: https://hashnode.com/@Tarek-Elzoghby
+- CodePen: https://codepen.io/Tarek-Elzoghby
+- Coderlegion: https://coderlegion.com/user/Tarek-Elzoghby
 
 ## Pinned work
 See pinned repos below for the current best examples of what I build.
